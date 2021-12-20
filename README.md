@@ -32,3 +32,7 @@ E.g. The list of countries in Africa will be available at (https://en.wikipedia.
 - Identify the country for a given phone number
 - Identify the country of a given city
 - Identify the top and bottom 5 countries in each continent in terms of covidcases and vaccination rate
+ 
+ ## Demo
+Click [here](https://drive.google.com/file/d/1YzOaxg-eF6Ntqon-5Yc8nGloWEKZVY3V/view?usp=sharing) to go to the demo's recorded video.
+
